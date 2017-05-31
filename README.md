@@ -1,2 +1,2 @@
-# http://filosofia1github.io
-my personal web site
+# http:// filosofia1github.io
+my personal website
